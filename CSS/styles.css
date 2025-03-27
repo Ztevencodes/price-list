@@ -106,3 +106,24 @@ li {
     cursor: pointer;
     font-size: 16px;
 }
+
+.btn-primary, .btn:hover {
+    background-color: #27264b;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #fff;
+    color: #27264b;
+}
+
+ /* List */
+ .card ul {
+    text-align: left;
+    margin-top: 50px;
+ }
+
+ .card ul li i {
+    color: #98ca9e;
+    margin-right: 10px;
+ }
